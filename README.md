@@ -35,8 +35,9 @@ Here are a few highlights (check the repo list for more):
 ---
 
 ## 📫 Connect With Me  
-- [LinkedIn](#)  
-- [GitHub](#)  
+- [LinkedIn](https://www.linkedin.com/in/anupam-chand-8b325a52/)  
+- [GitHub](https://github.com/anuthereaper)
+- [Medium](https://medium.com/@anupamchand)  
 - [Email](mailto:anupamchand@gmail.com)  
 
 ---
