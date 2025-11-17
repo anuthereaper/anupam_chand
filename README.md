@@ -16,7 +16,7 @@ This site showcases my background, projects, and interests in solution architect
 ## 🛠️ Tech Stack  
 - **Languages:** Python, SQL, NodeJS, Golang.   
 - **Cloud Platforms:** Azure, AWS 
-- **Data Platforms:** Databricks, Spark, Delta Lake  
+- **Data Platforms:** Databricks, PySpark, Delta Lake   
 - **Tools & Infra:** Terraform, GitHub Actions, Docker, Kubernetes, Azure Devops.  
 
 ---
