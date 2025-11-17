@@ -34,12 +34,10 @@ Here are a few highlights (check the repo list for more):
 A few blogs which are worth a read:  
 - 🔹 **[SCD type 2 on Databricks SQL](https://anupamchand.medium.com/scd-type-2-with-databricks-ce600a6cd9c8)** – SCD Type 2 using Databricks SQL.
 - 🔹 **[DLT Transformation framework](https://anupamchand.medium.com/metadata-driven-framework-for-delta-live-tables-887c1995d4bd)** – Metadata driven Transformation framework using Delta Live tables.    
-- 🔹 **[Data quality validation framework](https://anupamchand.medium.com/pyspark-data-frame-quality-validation-framework-in-databricks-using-great-expectations-hands-on-5fd0b070ea09)** – Various databricks notebooks including DLT with batch + stream and SCD Type 2.  
-- 🔹 **[Trigger Databricks Job](https://anupamchand.medium.com/trigger-databricks-job-via-restapi-using-oauth-aad-671d8597b97d)** – Custom Databricks logging framework.
-- 🔹 **[xxxxx](https://anupamchand.medium.com/save-databricks-costs-by-using-spot-instances-with-job-clusters-52093c9b35ef)** – Custom Databricks logging framework.
-- 🔹 **[xxxxx](https://anupamchand.medium.com/generation-of-sftp-keys-and-load-to-keyvault-for-adf-or-logic-apps-37aa8760bfbc)** – Custom Databricks logging framework.
-- 🔹 **[xxxxx](https://anupamchand.medium.com/pgp-encryption-using-python-in-azure-databricks-ef4bd56145ed)** – Custom Databricks logging framework.
-- 🔹 **[xxxxx](https://anupamchand.medium.com/protect-your-logic-app-http-trigger-with-aad-2c78b931ced8)** – Custom Databricks logging framework.
+- 🔹 **[Data quality validation framework](https://anupamchand.medium.com/pyspark-data-frame-quality-validation-framework-in-databricks-using-great-expectations-hands-on-5fd0b070ea09)** – Data quality validation framework using Great expectations.  
+- 🔹 **[Trigger Databricks Job](https://anupamchand.medium.com/trigger-databricks-job-via-restapi-using-oauth-aad-671d8597b97d)** – Trigger a Databricks job via Rest API.
+- 🔹 **[Spot instances with job clusters](https://anupamchand.medium.com/save-databricks-costs-by-using-spot-instances-with-job-clusters-52093c9b35ef)** – Spot instances with job clusters.
+- 🔹 **[PGP encryption on Databricks](https://anupamchand.medium.com/pgp-encryption-using-python-in-azure-databricks-ef4bd56145ed)** – PGP encryption on Databricks.
 
 
 ---
