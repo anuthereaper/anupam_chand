@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Anupam Chand  
+![Anupam](Anupam_picb.jpg)
 
 Welcome to my professional website repository!  
 This site showcases my background, projects, and interests in solution architecture, data engineering and cloud platforms.  
